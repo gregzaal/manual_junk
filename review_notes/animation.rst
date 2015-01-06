@@ -1,7 +1,7 @@
 
-**********************
-animation Review Notes
-**********************
+***********************
+Review Notes: animation
+***********************
 
 - Contains several empty files
 - Introduction is more of a pretty index page

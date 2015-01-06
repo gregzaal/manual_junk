@@ -1,7 +1,7 @@
 
-****************************
-composite_nodes Review Notes
-****************************
+*****************************
+Review Notes: composite_nodes
+*****************************
 
 - Contains some `FIXME(Template Unsupported...` because compositing nodes work the same as material nodes.
 - Missing many new nodes, especially (but not only) related to motion tracking
