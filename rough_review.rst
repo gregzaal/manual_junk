@@ -106,7 +106,23 @@ modifiers
 motion_tracking
 ===============
 
-- TODO
+Currently there is a single index page under /motion_tracking,
+this should be split up into a logical file structure and updated with all the new features.
+
+At the moment, the best documentation for the motion tracker can only be found in the long history of release notes:
+
+- http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.62/Motion_Tracker
+- http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.63/Motion_Tracker
+- http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.64/Motion_Tracker
+- http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.65/More_Features
+- http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.67/Motion_Tracker
+- http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.68/Motion_Tracker
+- http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.69/Motion_Tracker
+- http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.70/Motion_Tracker
+- http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.71/More_Features
+- http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.72/More_Features
+- http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.73/More_Features
+
   
 
 physics
