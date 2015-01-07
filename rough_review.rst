@@ -92,3 +92,45 @@ modeling
 - In selection basics page, mention that selection can be changed to ``LMB`` in the user preferences,
   although this manual will always refer to the default hotkeys.
 - Quite a lot of duplication on selection tool descriptions.
+  
+
+modifiers
+=========
+
+- TODO
+  
+
+motion_tracking
+===============
+
+- TODO
+  
+
+physics
+=======
+
+- TODO
+  
+
+preferences
+===========
+
+- TODO
+  
+
+render
+======
+
+- TODO
+  
+
+rigging
+=======
+
+- TODO
+  
+
+troubleshooting
+===============
+
+- TODO
