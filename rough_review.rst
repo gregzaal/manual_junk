@@ -16,10 +16,10 @@ animation
 
 - Contains several empty files
 - Introduction is more of a pretty index page
-- Some pages have double headings (e.g. `basics/actions.rst`)
+- Some pages have double headings (e.g. ``basics/actions.rst``)
 - key_frames page is a stub
-- Some strange formatting in `editors/graph/editing.rst` and `editors/graph.rst` (duplication too?)
-- `editors/timeline.rst` contains first-person notes, strange roman-numeral headers,
+- Some strange formatting in ``editors/graph/editing.rst`` and ``editors/graph.rst`` (duplication too?)
+- ``editors/timeline.rst`` contains first-person notes, strange roman-numeral headers,
   and bad indentation (long image captions)
 - Quite verbose in places
 - No need to include separate pages for animating lamps, materials, cameras, etc.
@@ -28,7 +28,7 @@ animation
 composite_nodes
 ===============
 
-- Contains some `FIXME(Template Unsupported...` because compositing nodes work the same as material nodes.
+- Contains some ``FIXME(Template Unsupported...`` because compositing nodes work the same as material nodes.
 - Missing many new nodes, especially (but not only) related to motion tracking
 - Very verbose in places
   
@@ -74,7 +74,7 @@ grease_pencil
 =============
 
 - Needs updating with all the cool new toys from gooseberry project
-- Move `ruler_and_protractor.rst` to a better place
+- Move ``ruler_and_protractor.rst`` to a better place
   
 
 modeling
@@ -83,12 +83,12 @@ modeling
 - Remove everything not related to actual modeling (e.g. objects, parenting, empties should all be moved somewhere else)
 - Clean up index page (rather than linking to every page in a sub-folder, just use the ``index.rst`` in the sub-folder)
 - Italic text used as mock-headings (better to use actual headings)
-- Incorrect header syntax (using `*`s for subheadings)
-- Contains some empty files and plenty of `TODO` comments
+- Incorrect header syntax (using ``*``s for subheadings)
+- Contains some empty files and plenty of ``TODO`` comments
 - Curves sections contain some old incorrect info
-- Some sections (e.g. `meshes/editing/duplicating/screw.rst`) have an unnecessarily large amount of text.
+- Some sections (e.g. ``meshes/editing/duplicating/screw.rst``) have an unnecessarily large amount of text.
 - Remove info about the history of tools (we only document the current state of blender)
 - Most pages need a thorough review, possibly rewriting too.
-- In selection basics page, mention that selection can be changed to :kbd:`LMB` in the user preferences,
+- In selection basics page, mention that selection can be changed to ``LMB`` in the user preferences,
   although this manual will always refer to the default hotkeys.
 - Quite a lot of duplication on selection tool descriptions.
