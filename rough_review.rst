@@ -132,18 +132,21 @@ physics
 - Needs updating:
    - Doesn't contain anything about the rigid body system
    - Doesn't contain anything about fire simulation
+   - Fluid docs are very old
 - Remove info about game-engine physics.
 - ``soft_body/simple_examples.rst`` has terrible english and grammar.
 - Some empty pages
 - Move info about smoke/fire materials to the Render chapter (and add info for cycles)
 - Move appendices to troubleshooting chapter, or include info in main docs.
-- Fluid docs are very old
   
 
 preferences
 ===========
 
-- TODO
+Seems mostly fine, except:
+
+- ``file.rst`` seems outdated
+- *Screencast* section in ``system.rst`` is TODO
   
 
 render
