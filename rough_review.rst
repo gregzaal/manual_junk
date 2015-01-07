@@ -111,17 +111,19 @@ this should be split up into a logical file structure and updated with all the n
 
 At the moment, the best documentation for the motion tracker can only be found in the long history of release notes:
 
-`2.62 <http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.62/Motion_Tracker>`__,
-`2.63 <http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.63/Motion_Tracker>`__,
-`2.64 <http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.64/Motion_Tracker>`__,
-`2.65 <http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.65/More_Features>`__,
-`2.67 <http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.67/Motion_Tracker>`__,
-`2.68 <http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.68/Motion_Tracker>`__,
-`2.69 <http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.69/Motion_Tracker>`__,
-`2.70 <http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.70/Motion_Tracker>`__,
-`2.71 <http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.71/More_Features>`__,
-`2.72 <http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.72/More_Features>`__,
-`2.73 <http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.73/More_Features>`__
+.. list-table::
+
+   * - `2.62 <http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.62/Motion_Tracker>`__
+     - `2.63 <http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.63/Motion_Tracker>`__
+     - `2.64 <http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.64/Motion_Tracker>`__
+     - `2.65 <http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.65/More_Features>`__
+     - `2.67 <http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.67/Motion_Tracker>`__
+     - `2.68 <http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.68/Motion_Tracker>`__
+     - `2.69 <http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.69/Motion_Tracker>`__
+     - `2.70 <http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.70/Motion_Tracker>`__
+     - `2.71 <http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.71/More_Features>`__
+     - `2.72 <http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.72/More_Features>`__
+     - `2.73 <http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.73/More_Features>`__
 
   
 
