@@ -97,7 +97,10 @@ modeling
 modifiers
 =========
 
-- TODO
+- Is mostly fine (had a pretty thorough review recently),
+  though it could use some more stack-order examples in ``the_stack.rst``
+- The Warp Modifier needs a "Usage" section to explain how it can be used and what it is typically used for
+  (it's fairly strange and unintuitive)
   
 
 motion_tracking
