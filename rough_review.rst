@@ -126,11 +126,18 @@ At the moment, the best documentation for the motion tracker can only be found i
      - `2.73 <http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.73/More_Features>`__
 
   
-
 physics
 =======
 
-- TODO
+- Needs updating:
+   - Doesn't contain anything about the rigid body system
+   - Doesn't contain anything about fire simulation
+- Remove info about game-engine physics.
+- ``soft_body/simple_examples.rst`` has terrible english and grammar.
+- Some empty pages
+- Move info about smoke/fire materials to the Render chapter (and add info for cycles)
+- Move appendices to troubleshooting chapter, or include info in main docs.
+- Fluid docs are very old
   
 
 preferences
