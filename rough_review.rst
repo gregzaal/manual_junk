@@ -152,7 +152,12 @@ Seems mostly fine, except:
 render
 ======
 
-- TODO
+- Cycles section needs lots of reorganizing and updating with new features.
+- Blender Render section was thrown together quickly, needs an introduction,
+  and is quite fragmented (contains lots of sub-folders and files).
+- Lighting section shouldn't contain any whole pages of World-related stuff (e.g. AO),
+  though it can be mentioned in the introduction.
+- Some things relating to only Blender Render are in the root
   
 
 rigging
