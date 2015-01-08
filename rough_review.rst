@@ -163,7 +163,10 @@ render
 rigging
 =======
 
-- TODO
+- Much of the armature-related stuff is very verbose and like a tutorial
+- Some empty pages
+- Constraints pages have inconsistent formatting and several TODO notes.
+- Remove constraints not available in current blender version.
   
 
 troubleshooting
