@@ -167,9 +167,4 @@ rigging
 - Some empty pages
 - Constraints pages have inconsistent formatting and several TODO notes.
 - Remove constraints not available in current blender version.
-  
-
-troubleshooting
-===============
-
-- TODO
+- 'Posing' section doesn't need to mention constraints, that should be covered in the constrains section.
