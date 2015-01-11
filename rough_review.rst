@@ -3,6 +3,17 @@
 Review Notes
 ************
 
+Below are some notes I made while roughly going through each chapter of the manual.
+It is by no means a thorough review, there are undoubtedly other issues in each chapter that I missed.
+
+I would highly recommend starting most chapters (almost) from scratch,
+using the old version only as a reference for what might need to be included in the chapter.
+This will ensure that we have correct and up-to-date info, only include info related to that chapter
+(some chapters go waaay off topic) and avoid duplicate content which is hard to maintain.
+
+The structure inside some chapters is also pretty confusing,
+so starting from scratch will allow us to structure things more logically.
+
 
 3d_interaction
 ==============
